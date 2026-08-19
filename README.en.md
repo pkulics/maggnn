@@ -10,6 +10,15 @@
 
 </div>
 
+## Preview
+
+| Home `/home` | Product `/product` | About `/about` |
+|:---:|:---:|:---:|
+| [![Home](screenshots/home.png)](https://maggnn.com/home) | [![Product](screenshots/product.png)](https://maggnn.com/product) | [![About](screenshots/about.png)](https://maggnn.com/about) |
+| [Try it →](https://maggnn.com/home) | [Try it →](https://maggnn.com/product) | [Try it →](https://maggnn.com/about) |
+
+> Screenshots captured 2026-08-19. Visit [maggnn.com](https://maggnn.com) for the latest.
+
 > A comprehensive consultation and self-discovery platform that blends traditional Chinese metaphysics (Bazi / Zi Wei Dou Shu / Plum Blossom) with modern large language models.
 >
 > Traditional Chinese metaphysics meets modern AI.

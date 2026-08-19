@@ -10,6 +10,15 @@
 
 </div>
 
+## 界面一览
+
+| 首页 `/home` | 产品功能 `/product` | 关于我们 `/about` |
+|:---:|:---:|:---:|
+| [![首页](screenshots/home.png)](https://maggnn.com/home) | [![产品页](screenshots/product.png)](https://maggnn.com/product) | [![关于页](screenshots/about.png)](https://maggnn.com/about) |
+| [在线体验 →](https://maggnn.com/home) | [在线体验 →](https://maggnn.com/product) | [在线体验 →](https://maggnn.com/about) |
+
+> 截图同步更新于 2026-08-19，访问 [maggnn.com](https://maggnn.com) 查看最新版本。
+
 > 融合中国传统命理（八字 / 紫微斗数 / 梅花易数）与现代 AI 大模型的综合咨询与心理评估平台。
 >
 > Traditional Chinese metaphysics meets modern AI.
