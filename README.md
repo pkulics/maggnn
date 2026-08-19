@@ -2,6 +2,14 @@
 
 **简体中文 | [English](./README.en.md)**
 
+<div align="center">
+
+**[https://maggnn.com](https://maggnn.com)**
+
+[![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-maggnn.com-ff5c8a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maggnn.com)
+
+</div>
+
 > 融合中国传统命理（八字 / 紫微斗数 / 梅花易数）与现代 AI 大模型的综合咨询与心理评估平台。
 >
 > Traditional Chinese metaphysics meets modern AI.
@@ -77,11 +85,14 @@ Maggnn AI 是一个**全品类命理 + AI 咨询平台**。
 
 ## 联系我们
 
+- 官网：**[https://maggnn.com](https://maggnn.com)**
 - 邮箱：contact@maggnn.com
 - 欢迎通过 Issue 反馈 bug 与功能建议
 
 ---
 
 <p align="center">
+  <a href="https://maggnn.com"><strong>打开 maggnn.com，30 秒生成你的第一张命盘 →</strong></a>
+  <br/>
   <sub>Maggnn AI · 传统智慧，现代解读</sub>
 </p>

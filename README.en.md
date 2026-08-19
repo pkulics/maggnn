@@ -2,6 +2,14 @@
 
 **English | [简体中文](./README.md)**
 
+<div align="center">
+
+**[https://maggnn.com](https://maggnn.com)**
+
+[![Website](https://img.shields.io/badge/Website-maggnn.com-ff5c8a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maggnn.com)
+
+</div>
+
 > A comprehensive consultation and self-discovery platform that blends traditional Chinese metaphysics (Bazi / Zi Wei Dou Shu / Plum Blossom) with modern large language models.
 >
 > Traditional Chinese metaphysics meets modern AI.
@@ -77,11 +85,14 @@ Five languages built in: **简体中文 / 繁體中文 / English / 日本語 / �
 
 ## Contact Us
 
+- Website: **[https://maggnn.com](https://maggnn.com)**
 - Email: contact@maggnn.com
 - Bug reports and feature suggestions are welcome via Issues
 
 ---
 
 <p align="center">
+  <a href="https://maggnn.com"><strong>Open maggnn.com — get your first chart in 30 seconds →</strong></a>
+  <br/>
   <sub>Maggnn AI · Ancient Wisdom, Modern Reading</sub>
 </p>
